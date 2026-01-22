@@ -1,0 +1,21 @@
+Q: Add a new function that identifies the top-selling product by total 
+revenue (price * quantity).
+
+A: A new function, get_top_selling_product, has been added to identify the 
+top-selling product by total revenue (price * quantity) in analyzer.py. 
+Let me know if you want an example usage or a test for this function.
+
+Q: modify the main block to call this new function and print the result. 
+Ensure the output is clearly formatted.
+
+A: The main block now loads sales data from the CSV, calls the new function, 
+and prints the top-selling product with clear formatting. The output includes 
+the product name, total revenue, and total quantity sold. Let me know if you 
+need further adjustments or a test!
+
+result: Total sales from sales_data.csv: $7755.00
+
+Top-Selling Product by Total Revenue:
+  Product: None
+  Total Revenue: $7755.00
+  Total Quantity Sold: 26
