@@ -1,4 +1,4 @@
-def calculate_total_sales(filename):
+#def calculate_total_sales(filename):
 
 import csv
 
